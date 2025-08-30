@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pngdeity.pngdeity)](https://github.com/pngdeity) [![GitHub followers](https://img.shields.io/github/followers/bwees.svg?style=social&label=Follow)](https://github.com/bwees?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pngdeity.pngdeity)](https://github.com/pngdeity) [![GitHub followers](https://img.shields.io/github/followers/pngdeity.svg?style=social&label=Follow)](https://github.com/pngdeity?tab=followers)
 
 ### Some things to check out
 - My [blog](http://pngdeity.ru/blog)!
