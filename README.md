@@ -5,6 +5,5 @@
 ### Some things to check out:
 - My [website](http://pngdeity.ru/)! (Despite the ccTLD, I am not Russian.)
 - My [resume](https://pngdeity.ru/pngdeity_files/resume.pdf). (I'm looking to work.)
-- My [kino folder](http://pngdeity.ru/kino.html). (A work in progress.)
 
 ![pngdeity's GitHub stats](https://github-readme-stats.vercel.app/api?username=pngdeity&show_icons=true&theme=dark)
